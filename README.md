@@ -28,9 +28,10 @@ some DataPlane.org activities.
 because we are not aware of you.  You may also not be listed here,
 because we are aware of you and could not justify utilizing your
 services at this time.  We will not add providers we have not worked
-with or attempted to work.  We will consider all reasonable donations
-and if accepted we will gladly add your service to this list.  See our
-home page for additional project and contact information.
+with or attempted to work with.  We will consider all reasonable
+donations and if we can accept your contribution we will gladly add your
+service to this list.  See our home page for additional project and
+contact information.
 
 *   [AboveClouds](https://aboveclouds.co.uk)
 *   [AlphaVPS](https://alphavps.bg)
