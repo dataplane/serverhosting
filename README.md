@@ -10,9 +10,9 @@ feeds or measurement projects.  We prefer KVM-based virtual servers or
 dedicated (bare metal) systems that can run the latest stable version of
 Debian.  We prefer services that are modestly priced and accept PayPal.
 We also seek rich IP address prefix diversity in IP address assignment
-from providers.  We do not require much support nor a rich array of
-features.  In fact our service demands are quite modest.  We prefer long
-term commitments and reasonably stable providers.  This list should
+from providers.  We do not require much support nor an extensive array
+of features.  In fact our service demands are quite modest.  We prefer
+long term commitments and reasonably stable providers.  This list should
 reflect these preferences.
 
 Brief notes or comments about a server hosting provider based on
@@ -68,6 +68,7 @@ home page for additional project and contact information.
 *   [LetBox](http://letbox.com)
 *   [LoveServers](https://loveservers.com)
 *   [Luna Node](https://lunanode.com)
+*   [LunarVPS](https://lunarvps.com)
 *   [Mean Servers](https://www.meanservers.com)
 *   [My Custom Hosting](http://www.mycustomhosting.net)
 *   [NodeBlade](https://nodeblade.com)
