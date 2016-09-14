@@ -86,7 +86,7 @@ home page for additional project and contact information.
 *   [Virpus](https://virpus.com)
 *   [Virtono](https://www.virtono.com)
 *   [Vscale](https://vscale.io)
-*   [vStroike](https://vstroike.ru)
+*   [vStroike](https://vstoike.ru)
 *   [Vultr](https://www.vultr.com)
 *   [WebSound](https://websound.co.uk)
 *   [White Sands Hosting](https://whitesandshosting.com)
