@@ -79,7 +79,7 @@ home page for additional project and contact information.
     days with no status update from the provider.
 *   [Shock Hosting](https://shockhosting.net)
 *   [Tiny KVM](http://tinykvm.com)
-*   [TragicServers](https://tragicservres.com)
+*   [TragicServers](https://tragicservers.com)
 *   [TuneVPS](http://www.tunevps.com)
 *   [UltraVPS](http://www.ultravps.eu)
 *   [VirMach](https://virmach.com)
