@@ -88,7 +88,9 @@ home page for additional project and contact information.
 *   [Vscale](https://vscale.io)
 *   [vStroike](https://vstoike.ru)
 *   [Vultr](https://www.vultr.com)
-*   [WebSound](https://websound.co.uk)
+*   [WebSound](https://websound.co.uk)  
+    As of September 13, 2016, some browsers may receive an OCSP error
+    when accessing this web site.
 *   [White Sands Hosting](https://whitesandshosting.com)
 *   [XHostFire](https://www.xhostfire.com)
 *   [ZXHost](https://zxhost.co.uk)
