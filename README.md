@@ -35,7 +35,9 @@ home page for additional project and contact information.
 *   [AboveClouds](https://aboveclouds.co.uk)
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)
+
     NAT.
+
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BuyVM](https://buyvm.net)
 *   [CenTex Hosting](https://centexhosting.com)
@@ -57,8 +59,10 @@ home page for additional project and contact information.
 *   [Hukot](http://hukot.cz)
 *   [Impact VPS](http://impactvps.com)
 *   [Incloudibly](https://incloudibly.net)
+
     Filters DNS over UDP, GRE, ICMP and NTP.  Two sequential, internal
     IPv4 addresses are provided for both DNS and NTP.
+
 *   [INIZ](https://iniz.com)
 *   [iwStack](http://iwstack.com)
 *   [Joe's Datacenter](https://joesdatacenter.com)
@@ -75,8 +79,10 @@ home page for additional project and contact information.
 *   [OVH](https://www.ovh.com)
 *   [RamNode](https://ramnode.com)
 *   [SafeHouseCloud](https://safehousecloud.com)
+
     As of September 13, 2016, some locations have been offline for many
     days with no status update from the provider.
+
 *   [Shock Hosting](https://shockhosting.net)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TragicServers](https://tragicservres.com)
@@ -91,4 +97,4 @@ home page for additional project and contact information.
 *   [WebSound](https://websound.co.uk)
 *   [White Sands Hosting](https://whitesandshosting.com)
 *   [XHostFire](https://www.xhostfire.com)
-*   [ZXHost](https://zxhost.co.uk]
+*   [ZXHost](https://zxhost.co.uk)
