@@ -37,7 +37,6 @@ home page for additional project and contact information.
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)
 
     NAT.
-
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BuyVM](https://buyvm.net)
 *   [CenTex Hosting](https://centexhosting.com)
@@ -62,7 +61,6 @@ home page for additional project and contact information.
 
     Filters DNS over UDP, GRE, ICMP and NTP.  Two sequential, internal
     IPv4 addresses are provided for both DNS and NTP.
-
 *   [INIZ](https://iniz.com)
 *   [iwStack](http://iwstack.com)
 *   [Joe's Datacenter](https://joesdatacenter.com)
