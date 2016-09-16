@@ -94,5 +94,6 @@ contact information.
     As of September 13, 2016, some browsers may receive an OCSP error
     when accessing this web site.
 *   [White Sands Hosting](https://whitesandshosting.com)
+*   [Wholesale Internet](https://www.wholesaleinternet.net)
 *   [XHostFire](https://www.xhostfire.com)
 *   [ZXHost](https://zxhost.co.uk)
