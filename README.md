@@ -44,6 +44,7 @@ contact information.
 *   [Cloud At Cost](http://cloudatcost.com)
 *   [CloudSigma](https://www.cloudsigma.com)
 *   [CrownCloud](http://crowncloud.net)
+*   [Data Mantle](https://datamantle.com)
 *   [DigitalOcean](https://www.digitalocean.com)
 *   [DomFlow](http://www.domflow.it)
 *   [EdgeVM](http://www.edgevm.com)
