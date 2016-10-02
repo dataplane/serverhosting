@@ -77,9 +77,6 @@ contact information.
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
 *   [RamNode](https://ramnode.com)
-*   [SafeHouseCloud](https://safehousecloud.com)  
-    As of September 13, 2016, some locations have been offline for many
-    days with no status update from the provider.
 *   [Shock Hosting](https://shockhosting.net)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TragicServers](https://tragicservers.com)
