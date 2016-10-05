@@ -77,6 +77,7 @@ contact information.
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
 *   [RamNode](https://ramnode.com)
+*   [ServerAstra](https://serverastra.com)
 *   [Shock Hosting](https://shockhosting.net)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TragicServers](https://tragicservers.com)
