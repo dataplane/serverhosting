@@ -45,7 +45,6 @@ contact information.
 *   [CenTex Hosting](https://centexhosting.com)
 *   [CityNet Host](https://www.citynethost.com)
 *   [Cloud At Cost](http://cloudatcost.com)
-*   [CloudSigma](https://www.cloudsigma.com)
 *   [CrownCloud](http://crowncloud.net)
 *   [Data Mantle](https://datamantle.com)
 *   [DigitalOcean](https://www.digitalocean.com)
