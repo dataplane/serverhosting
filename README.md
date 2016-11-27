@@ -92,6 +92,7 @@ contact information.
 *   [VirMach](https://virmach.com)
 *   [Virpus](https://virpus.com)
 *   [Virtono](https://www.virtono.com)
+*   [vpsRus](https://vpsrus.com)
 *   [Vscale](https://vscale.io)
 *   [vStroike](https://vstoike.ru)
 *   [Vultr](https://www.vultr.com)
