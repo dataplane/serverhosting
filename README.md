@@ -72,6 +72,7 @@ contact information.
 *   [LAUNCH VPS](https://launchvps.com)
 *   [LeaseWeb](https://www.leaseweb.com)
 *   [LetBox](http://letbox.com)
+*   [LiteServer](https://www.liteserver.nl)
 *   [LoveServers](https://loveservers.com)
 *   [Luna Node](https://lunanode.com)
 *   [LunarVPS](https://lunarvps.com)
