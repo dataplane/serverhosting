@@ -100,4 +100,5 @@ contact information.
 *   [White Sands Hosting](https://whitesandshosting.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
 *   [XHostFire](https://www.xhostfire.com)
+*   [Yourserver](https://www.yourserver.se)
 *   [ZXHost](https://zxhost.co.uk)
