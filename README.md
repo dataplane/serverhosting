@@ -45,6 +45,7 @@ contact information.
 *   [CenTex Hosting](https://centexhosting.com)
 *   [CityNet Host](https://www.citynethost.com)
 *   [Cloud At Cost](http://cloudatcost.com)
+    Unreliable network connectivity.  Relatively poor performance.  Very low cost.
 *   [CrownCloud](http://crowncloud.net)
 *   [Data Mantle](https://datamantle.com)
 *   [DigitalOcean](https://www.digitalocean.com)
@@ -53,7 +54,6 @@ contact information.
 *   [FDC Servers](https://www.fdcservers.net)
 *   [Free Server](http://freeserver.us)
 *   [FST Servers](http://fstservers.com)
-*   [Google Cloud Platform](https://cloud.google.com)
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Host1Plus](http://www.host1plus.com)
 *   [HostBrew](https://hostbrew.com)
