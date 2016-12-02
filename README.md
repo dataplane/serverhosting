@@ -44,7 +44,7 @@ contact information.
 *   [BuyVM](https://buyvm.net)
 *   [CenTex Hosting](https://centexhosting.com)
 *   [CityNet Host](https://www.citynethost.com)
-*   [Cloud At Cost](http://cloudatcost.com) 
+*   [Cloud At Cost](http://cloudatcost.com)  
     Unreliable network connectivity.  Relatively poor performance.  Very low cost.
 *   [CrownCloud](http://crowncloud.net)
 *   [Data Mantle](https://datamantle.com)
