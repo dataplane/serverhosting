@@ -58,6 +58,7 @@ contact information.
 *   [Host1Plus](http://www.host1plus.com)
 *   [HostBrew](https://hostbrew.com)
 *   [Hostigation](https://hostigation.com)
+*   [HostMaze](https://hostmaze.com)
 *   [HTTP Zoom](http://www.httpzoom.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
 *   [Hukot](http://hukot.cz)
