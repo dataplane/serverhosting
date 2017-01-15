@@ -76,10 +76,6 @@ contact information.
 *   [LiteServer](https://www.liteserver.nl)
 *   [LoveServers](https://loveservers.com)
 *   [Luna Node](https://lunanode.com)
-*   [LunarVPS](https://lunarvps.com)  
-    Claimed system DDoS'd their infrastructure.  Service suspended
-    without notification nor evidence.  Cancelling after current billing
-    period ends and will soon remove from this list.  Not recommended.
 *   [Mean Servers](https://www.meanservers.com)
 *   [My Custom Hosting](http://www.mycustomhosting.net)
 *   [NodeBlade](https://nodeblade.com)
