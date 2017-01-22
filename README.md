@@ -37,6 +37,7 @@ service to this list.  See our home page for additional project and
 contact information.
 
 *   [AboveClouds](https://aboveclouds.co.uk)
+*   [Alibaba Cloud](https://intl.aliyun.com/)
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
