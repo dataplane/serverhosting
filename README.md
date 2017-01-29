@@ -37,13 +37,14 @@ service to this list.  See our home page for additional project and
 contact information.
 
 *   [AboveClouds](https://aboveclouds.co.uk)
-*   [Alibaba Cloud](https://intl.aliyun.com/)
+*   [Alibaba Cloud](https://intl.aliyun.com)
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BuyVM](https://buyvm.net)
 *   [CenTex Hosting](https://centexhosting.com)
+*   [ChangeIP](https://www.changeip.com)
 *   [CityNet Host](https://www.citynethost.com)
 *   [Cloud At Cost](http://cloudatcost.com)  
     Unreliable network connectivity.  Relatively poor performance.  Very low cost.
@@ -90,7 +91,7 @@ contact information.
 *   [Tiny KVM](http://tinykvm.com)
 *   [TragicServers](https://tragicservers.com)
 *   [TuneVPS](http://www.tunevps.com)
-*   [TurnKey Internet](https://turnkeyinternet.net/)
+*   [TurnKey Internet](https://turnkeyinternet.net)
 *   [UltraVPS](http://www.ultravps.eu)
 *   [VirMach](https://virmach.com)
 *   [Virpus](https://virpus.com)
