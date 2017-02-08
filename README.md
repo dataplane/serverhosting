@@ -53,6 +53,7 @@ contact information.
 *   [DigitalOcean](https://www.digitalocean.com)
 *   [DomFlow](http://www.domflow.it)
 *   [EdgeVM](http://www.edgevm.com)
+*   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
 *   [Free Server](http://freeserver.us)
 *   [FST Servers](http://fstservers.com)
