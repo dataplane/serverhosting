@@ -90,7 +90,6 @@ contact information.
 *   [Shock Hosting](https://shockhosting.net)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TragicServers](https://tragicservers.com)
-*   [TuneVPS](http://www.tunevps.com)
 *   [TurnKey Internet](https://turnkeyinternet.net)
 *   [UltraVPS](http://www.ultravps.eu)
 *   [VirMach](https://virmach.com)
