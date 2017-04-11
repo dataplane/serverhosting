@@ -80,6 +80,7 @@ contact information.
 *   [Luna Node](https://lunanode.com)
 *   [Mean Servers](https://www.meanservers.com)
 *   [My Custom Hosting](http://www.mycustomhosting.net)
+*   [NOCIX](https://www.nocix.net)
 *   [NodeBlade](https://nodeblade.com)
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
