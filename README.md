@@ -89,6 +89,7 @@ contact information.
 *   [Sentris](http://sentris.com)
 *   [ServerAstra](https://serverastra.com)
 *   [Shock Hosting](https://shockhosting.net)
+*   [SpeedyKVM](https://speedykvm.com)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TragicServers](https://tragicservers.com)
 *   [TurnKey Internet](https://turnkeyinternet.net)
