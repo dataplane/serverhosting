@@ -97,6 +97,7 @@ contact information.
 *   [VirMach](https://virmach.com)
 *   [Virpus](https://virpus.com)
 *   [Virtono](https://www.virtono.com)
+*   [VMBox.Co](https://vmbox.co)
 *   [VortexNode](http://vortexnode.com)
 *   [vpsRus](https://vpsrus.com)
 *   [Vscale](https://vscale.io)
