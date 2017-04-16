@@ -61,6 +61,7 @@ contact information.
 *   [HostBrew](https://hostbrew.com)
 *   [Hostigation](https://hostigation.com)
 *   [HostMaze](https://hostmaze.com)
+*   [HostSolutions.ro](https://www.hostsolutions.ro)
 *   [HTTP Zoom](http://www.httpzoom.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
 *   [Hukot](http://hukot.cz)
