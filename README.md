@@ -71,6 +71,7 @@ contact information.
     Filters DNS over UDP, GRE, ICMP and NTP.  Two sequential, internal
     IPv4 addresses are provided for both DNS and NTP.
 *   [INIZ](https://iniz.com)
+*   [IO Zoom](https://www.iozoom.com)
 *   [iwStack](http://iwstack.com)
 *   [Joe's Datacenter](https://joesdatacenter.com)
 *   [Kimsufi](https://www.kimsufi.com)
