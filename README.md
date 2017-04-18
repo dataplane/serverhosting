@@ -41,6 +41,7 @@ contact information.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
+*   [Arch Hosting](https://archhosting.net/)
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BuyVM](https://buyvm.net)
 *   [CenTex Hosting](https://centexhosting.com)
