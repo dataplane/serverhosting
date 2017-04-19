@@ -60,6 +60,7 @@ contact information.
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Host1Plus](http://www.host1plus.com)
 *   [HostBrew](https://hostbrew.com)
+*   [Hostens](https://www.hostens.eu)
 *   [Hostigation](https://hostigation.com)
 *   [HostMaze](https://hostmaze.com)
 *   [HostSolutions.ro](https://www.hostsolutions.ro)
