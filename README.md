@@ -51,6 +51,7 @@ contact information.
 *   [Cloud At Cost](http://cloudatcost.com)  
     Unreliable network connectivity.  Relatively poor performance.  Very low cost.
 *   [CrownCloud](http://crowncloud.net)
+*   [dediserve](https://dediserve.com/)
 *   [DigitalOcean](https://www.digitalocean.com)
 *   [DomFlow](http://www.domflow.it)
 *   [EdgeVM](http://www.edgevm.com)
