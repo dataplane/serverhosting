@@ -60,6 +60,7 @@ contact information.
 *   [Free Server](http://freeserver.us)
 *   [FST Servers](http://fstservers.com)
 *   [GoDaddy](https://www.godaddy.com)
+*   [GodlyCloud](https://www.godlycloud.com)
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Host1Plus](http://www.host1plus.com)
 *   [HostBrew](https://hostbrew.com)
