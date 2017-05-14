@@ -75,6 +75,7 @@ contact information.
 *   [Incloudibly](https://incloudibly.net)  
     Filters DNS over UDP, GRE, ICMP and NTP.  Two sequential, internal
     IPv4 addresses are provided for both DNS and NTP.
+*   [IndoVirtue](https://indovirtue.com/)
 *   [INIZ](https://iniz.com)
 *   [IO Zoom](https://www.iozoom.com)
 *   [iwStack](http://iwstack.com)
