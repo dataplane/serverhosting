@@ -41,7 +41,7 @@ contact information.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
-*   [Arch Hosting](https://archhosting.net/)
+*   [Arch Hosting](https://archhosting.net)
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BudgetNode](https://budgetnode.com)
 *   [BuyVM](https://buyvm.net)
@@ -51,7 +51,7 @@ contact information.
 *   [Cloud At Cost](http://cloudatcost.com)  
     Unreliable network connectivity.  Relatively poor performance.  Very low cost.
 *   [CrownCloud](http://crowncloud.net)
-*   [dediserve](https://dediserve.com/)
+*   [dediserve](https://dediserve.com)
 *   [DigitalOcean](https://www.digitalocean.com)
 *   [DomFlow](http://www.domflow.it)
 *   [EdgeVM](http://www.edgevm.com)
@@ -75,7 +75,7 @@ contact information.
 *   [Incloudibly](https://incloudibly.net)  
     Filters DNS over UDP, GRE, ICMP and NTP.  Two sequential, internal
     IPv4 addresses are provided for both DNS and NTP.
-*   [IndoVirtue](https://indovirtue.com/)
+*   [IndoVirtue](https://indovirtue.com)
 *   [INIZ](https://iniz.com)
 *   [IO Zoom](https://www.iozoom.com)
 *   [iwStack](http://iwstack.com)
@@ -91,6 +91,7 @@ contact information.
 *   [My Custom Hosting](http://www.mycustomhosting.net)
 *   [NOCIX](https://www.nocix.net)
 *   [NodeBlade](https://nodeblade.com)
+*   [OffshoreRacks](https://www.offshoreracks.com)
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
 *   [QuadHost](https://quadhost.net)
