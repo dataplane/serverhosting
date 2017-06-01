@@ -94,6 +94,7 @@ contact information.
 *   [OffshoreRacks](https://www.offshoreracks.com)
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
+*   [PieLayer](http://pielayer.com/)
 *   [QuadHost](https://quadhost.net)
 *   [RackHost](http://www.rackhost.co)
 *   [RamNode](https://ramnode.com)
