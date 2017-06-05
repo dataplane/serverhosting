@@ -111,6 +111,7 @@ contact information.
 *   [Virtono](https://www.virtono.com)
 *   [VMBox.Co](https://vmbox.co)
 *   [VortexNode](http://vortexnode.com)
+*   [VPS2day](https://www.vps2day.com)
 *   [vpsRus](https://vpsrus.com)
 *   [Vscale](https://vscale.io)
 *   [vStroike](https://vstoike.ru)
