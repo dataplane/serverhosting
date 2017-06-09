@@ -10,13 +10,14 @@ feeds or measurement projects.  We prefer KVM-based virtual servers or
 dedicated (bare metal) systems that can run the latest stable version of
 Debian.  We prefer services that are modestly priced and accept PayPal.
 We also seek rich IP address prefix diversity in IP address assignment
-from providers.  We do not require much support nor an extensive array
-of features.  In fact our service demands are quite modest.  We prefer
-long term commitments and reasonably stable providers.  We reject any
-provider that requires us to provide a copy of government-issued id for
-account verification, which we consider a dangerous and unnecessary
-practice for both consumer and provider.  This list should reflect these
-preferences.
+from providers (see the [list of IPv4 /8 prefixes DataPlane.org already
+has a presence in](v4prefixes.txt)).  We do not require much support nor
+an extensive array of features.  In fact our service demands are quite
+modest.  We prefer long term commitments and reasonably stable
+providers.  We reject any provider that requires us to provide a copy of
+government-issued id for account verification, which we consider a
+dangerous and unnecessary practice for both consumer and provider.  This
+list should reflect these preferences.
 
 Brief notes or comments about a server hosting provider based on
 DataPlane.org's experience with them may be included.  Only factual or
