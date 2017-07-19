@@ -39,6 +39,7 @@ contact information.
 
 *   [AboveClouds](https://aboveclouds.co.uk)
 *   [Alibaba Cloud](https://intl.aliyun.com)
+    Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
