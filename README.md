@@ -50,8 +50,6 @@ contact information.
 *   [CenTex Hosting](https://centexhosting.com)
 *   [ChangeIP](https://www.changeip.com)
 *   [CityNet Host](https://www.citynethost.com)
-*   [Cloud At Cost](http://cloudatcost.com)  
-    Unreliable network connectivity.  Relatively poor performance.  Very low cost.
 *   [CrownCloud](http://crowncloud.net)
 *   [dediserve](https://dediserve.com)
 *   [DigitalOcean](https://www.digitalocean.com)
