@@ -43,6 +43,7 @@ contact information.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
+*   [anyNode](https://anynode.net/)
 *   [Arch Hosting](https://archhosting.net)
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BudgetNode](https://budgetnode.com)
@@ -65,7 +66,6 @@ contact information.
 *   [Host1Plus](http://www.host1plus.com)
 *   [HostBrew](https://hostbrew.com)
 *   [Hostens](https://www.hostens.eu)
-*   [Hostigation](https://hostigation.com)
 *   [HostMaze](https://hostmaze.com)
 *   [HostSolutions.ro](https://www.hostsolutions.ro)
 *   [HTTP Zoom](http://www.httpzoom.com)
