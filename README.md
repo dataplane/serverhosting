@@ -96,7 +96,6 @@ contact information.
 *   [OVH](https://www.ovh.com)
 *   [PieLayer](http://pielayer.com/)
 *   [QuadHost](https://quadhost.net)
-*   [RackHost](http://www.rackhost.co)
 *   [RamNode](https://ramnode.com)
 *   [Sentris](http://sentris.com)
 *   [ServerAstra](https://serverastra.com)
