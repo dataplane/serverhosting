@@ -121,4 +121,3 @@ contact information.
 *   [WootHosting](https://woothosting.com)
 *   [XHostFire](https://www.xhostfire.com)
 *   [Yourserver](https://www.yourserver.se)
-*   [ZXHost](https://zxhost.co.uk)
