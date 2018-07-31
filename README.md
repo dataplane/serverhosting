@@ -58,7 +58,6 @@ contact information.
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
 *   [Free Server](http://freeserver.us)
-*   [GoDaddy](https://www.godaddy.com)
 *   [GodlyCloud](https://www.godlycloud.com)
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Host1Plus](http://www.host1plus.com)
