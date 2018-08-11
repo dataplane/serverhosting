@@ -86,7 +86,6 @@ contact information.
 *   [Mean Servers](https://www.meanservers.com)
 *   [My Custom Hosting](http://www.mycustomhosting.net)
 *   [NOCIX](https://www.nocix.net)
-*   [NodeBlade](https://nodeblade.com)
 *   [OffshoreRacks](https://www.offshoreracks.com)
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
