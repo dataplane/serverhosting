@@ -111,7 +111,6 @@ contact information.
 *   [vStroike](https://vstoike.ru)
 *   [Vultr](https://www.vultr.com)
 *   [WebSound](https://websound.co.uk)  
-*   [White Sands Hosting](https://whitesandshosting.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
 *   [WootHosting](https://woothosting.com)
 *   [XHostFire](https://www.xhostfire.com)
