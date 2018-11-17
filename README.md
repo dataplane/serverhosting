@@ -86,7 +86,6 @@ contact information.
 *   [Luna Node](https://lunanode.com)   
     NAT.
 *   [Mean Servers](https://www.meanservers.com)
-*   [My Custom Hosting](http://www.mycustomhosting.net)
 *   [NOCIX](https://www.nocix.net)
 *   [OffshoreRacks](https://www.offshoreracks.com)
 *   [OneProvider](http://oneprovider.com)
