@@ -43,7 +43,6 @@ contact information.
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
 *   [anyNode](https://anynode.net/)
-*   [Arch Hosting](https://archhosting.net)
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BudgetNode](https://budgetnode.com)
 *   [BuyVM](https://buyvm.net)
