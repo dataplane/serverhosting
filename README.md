@@ -1,23 +1,26 @@
 # Server Hosting Providers
 
 This list is not a comprehensive list of hosting providers, only those
-that DataPlane.org has utilized or attempted to utilize are included.
-Therefore, by definition, this is a woefully incomplete and imperfect
-list of server hosting providers.
+that DataPlane.org has recently utilized are included.  Therefore, by
+definition, this is a woefully incomplete and imperfect list of server
+hosting providers.
 
 DataPlane.org utilizes server hosting providers for a variety of data,
-feeds or measurement projects.  We prefer KVM-based virtual servers or
-dedicated (bare metal) systems that can run the latest stable version of
-Debian.  We prefer services that are modestly priced and accept PayPal.
-We also seek rich IP address prefix diversity in IP address assignment
-from providers (see the [list of IPv4 /8 prefixes DataPlane.org already
-has a presence in](v4prefixes.txt)).  We do not require much support nor
-an extensive array of features.  In fact our service demands are quite
-modest.  We prefer long term commitments and reasonably stable
-providers.  We reject any provider that requires us to provide a copy of
-government-issued id for account verification, which we consider a
-dangerous and unnecessary practice for both consumer and provider.  This
-list should reflect these preferences.
+feeds and measurement projects.  We generally use KVM-based virtual
+servers or dedicated (bare metal) systems that can run the latest stable
+version of Debian.  Our resource requirements are modest.  For example,
+as of this writing, a sensor VM with 512MB of RAM, a 10GB disk, and the
+equivalent of a shared 10 Mb/s link is more than enough.  The ability to
+remotely reboot and re-install a minimal, relatively current Debian
+amd64 (x86_64) system without support intervention is highly desirable.
+Geographic diversity and a diverse set of IP address assignments across
+our sensor nodes is of particular interest and sometimes drives our
+interest in certain providers.  With very few exceptions, PayPal billing
+is the payment method of choice.  We are happy to provide complete
+contact information and even voice verification, but with very rare
+exception we do not do business with providers that request copies or
+scans of a personnel's government-issued identification or a billing
+statement.
 
 Brief notes or comments about a server hosting provider based on
 DataPlane.org's experience with them may be included.  Only factual or
@@ -31,40 +34,33 @@ some DataPlane.org activities.
 **Note to server hosting providers:** You may not be listed here simply
 because we are not aware of you.  You may also not be listed here,
 because we are aware of you and could not justify utilizing your
-services at this time.  We will not add providers we have not worked
-with or attempted to work with.  We will consider all reasonable
-donations and if we can accept your contribution we will gladly add your
-service to this list.  See our home page for additional project and
-contact information.
+services.
+
+See the [DataPlane.org home page](https://dataplane.org) for additional
+project and contact information.
 
 *   [Alibaba Cloud](https://intl.aliyun.com)  
     Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
-*   [anyNode](https://anynode.net/)
+*   [anyNode](https://anynode.net)
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BudgetNode](https://budgetnode.com)
 *   [BuyVM](https://buyvm.net)
-*   [CenTex Hosting](https://centexhosting.com)
 *   [ChangeIP](https://www.changeip.com)
 *   [CityNet Host](https://www.citynethost.com)
 *   [CrownCloud](http://crowncloud.net)
 *   [dediserve](https://dediserve.com)
 *   [DigitalOcean](https://www.digitalocean.com)
-*   [DomFlow](http://www.domflow.it)
-*   [EdgeVM](http://www.edgevm.com)
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
-*   [FlowVPS](https://flowvps.com/)
-*   [Free Server](http://freeserver.us)
+*   [FlowVPS](https://flowvps.com)
 *   [GreenCloudVPS](https://greencloudvps.com)
-*   [Host1Plus](http://www.host1plus.com)
+*   [Hecifed](https://www.heficed.com)
 *   [HostBrew](https://hostbrew.com)
 *   [Hostens](https://www.hostens.eu)
-*   [HostMaze](https://hostmaze.com)
 *   [HostSolutions.ro](https://www.hostsolutions.ro)
-*   [HTTP Zoom](http://www.httpzoom.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
 *   [Hukot](http://hukot.cz)
 *   [Impact VPS](http://impactvps.com)
@@ -77,39 +73,40 @@ contact information.
 *   [iwStack](http://iwstack.com)
 *   [Joe's Datacenter](https://joesdatacenter.com)
 *   [Kimsufi](https://www.kimsufi.com)
-*   [LAUNCH VPS](https://launchvps.com)
+*   [LaunchVPS](https://launchvps.com)
 *   [LeaseWeb](https://www.leaseweb.com)
 *   [LetBox](http://letbox.com)
+*   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
 *   [LoveServers](https://loveservers.com)
 *   [Luna Node](https://lunanode.com)   
     NAT.
 *   [Mean Servers](https://www.meanservers.com)
-*   [NOCIX](https://www.nocix.net)
+*   [Nexril](//nexril.net)
+*   [Nocix](https://www.nocix.net)
 *   [OffshoreRacks](https://www.offshoreracks.com)
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
-*   [PieLayer](http://pielayer.com/)
+*   [Pajo Servers](https://pajo-servers.com)
 *   [QuadHost](https://quadhost.net)
 *   [RamNode](https://ramnode.com)
+*   [Reprise Hosting](https://www.reprisehosting.com)
+*   [Secure Dragon](https://securedragon.net)
+*   [SeFlow](https://www.seflow.net)
 *   [Sentris](http://sentris.com)
 *   [ServerAstra](https://serverastra.com)
 *   [Shock Hosting](https://shockhosting.net)
-*   [SpeedyKVM](https://speedykvm.com)
+*   [Telasera](https://www.telasera.com)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TragicServers](https://tragicservers.com)
 *   [TurnKey Internet](https://turnkeyinternet.net)
 *   [UltraVPS](http://www.ultravps.eu)
+*   [Veesp](https://veesp.com)
 *   [VirMach](https://virmach.com)
-*   [Virpus](https://virpus.com)
 *   [Virtono](https://www.virtono.com)
-*   [VMBox.Co](https://vmbox.co)
 *   [VPS2day](https://www.vps2day.com)
 *   [Vscale](https://vscale.io)
-*   [vStroike](https://vstoike.ru)
 *   [Vultr](https://www.vultr.com)
-*   [WebSound](https://websound.co.uk)  
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
-*   [WootHosting](https://woothosting.com)
 *   [XHostFire](https://www.xhostfire.com)
 *   [Yourserver](https://www.yourserver.se)
