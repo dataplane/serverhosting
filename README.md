@@ -44,7 +44,6 @@ project and contact information.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
-*   [anyNode](https://anynode.net)
 *   [Aruba Cloud](https://www.arubacloud.com)
 *   [BudgetNode](https://budgetnode.com)
 *   [BuyVM](https://buyvm.net)
