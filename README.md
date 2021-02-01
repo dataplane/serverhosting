@@ -87,7 +87,6 @@ project and contact information.
 *   [OneProvider](http://oneprovider.com)
 *   [OVH](https://www.ovh.com)
 *   [Pajo Servers](https://pajo-servers.com)
-*   [QuadHost](https://quadhost.net)
 *   [RamNode](https://ramnode.com)
 *   [Reprise Hosting](https://www.reprisehosting.com)
 *   [Secure Dragon](https://securedragon.net)
