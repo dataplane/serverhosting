@@ -85,6 +85,8 @@ project and contact information.
 *   [Nocix](https://www.nocix.net)
 *   [OffshoreRacks](https://www.offshoreracks.com)
 *   [OneProvider](http://oneprovider.com)
+*   [Oracle Cloud](https://cloud.oracle.com)  
+    NAT, no Debian templates.
 *   [OVH](https://www.ovh.com)
 *   [Pajo Servers](https://pajo-servers.com)
 *   [RamNode](https://ramnode.com)
