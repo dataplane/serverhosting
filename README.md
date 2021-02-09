@@ -110,3 +110,4 @@ project and contact information.
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
 *   [XHostFire](https://www.xhostfire.com)
 *   [Yourserver](https://www.yourserver.se)
+*   [Zappie Host](https://zappiehost.com/)
