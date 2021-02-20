@@ -57,6 +57,7 @@ project and contact information.
 *   [FlowVPS](https://flowvps.com)
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Hecifed](https://www.heficed.com)
+*   [Hetzner](https://www.hetzner.com)
 *   [HostBrew](https://hostbrew.com)
 *   [Hostens](https://www.hostens.com)
 *   [HostSolutions.ro](https://www.hostsolutions.ro)
