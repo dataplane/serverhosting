@@ -55,6 +55,7 @@ project and contact information.
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
 *   [FlowVPS](https://flowvps.com)
+*   [Google Cloud](https://cloud.google.com/)
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Hecifed](https://www.heficed.com)
 *   [Hetzner](https://www.hetzner.com)
