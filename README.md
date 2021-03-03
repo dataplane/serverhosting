@@ -65,6 +65,7 @@ project and contact information.
 *   [HostSolutions.ro](https://www.hostsolutions.ro)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
 *   [Hukot](http://hukot.cz)
+*   [Ikoula](https://www.ikoula.com)
 *   [Impact VPS](http://impactvps.com)
 *   [Incloudibly](https://incloudibly.net)  
     Filters DNS over UDP, GRE, ICMP and NTP.  Two sequential, internal
