@@ -39,6 +39,7 @@ services.
 See the [DataPlane.org home page](https://dataplane.org) for additional
 project and contact information.
 
+*   [HETNiX](https://www.hetnix.com)  
 *   [Alibaba Cloud](https://intl.aliyun.com)  
     Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
