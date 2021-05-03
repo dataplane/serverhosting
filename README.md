@@ -97,7 +97,6 @@ project and contact information.
 *   [RamNode](https://ramnode.com)
 *   [Reprise Hosting](https://www.reprisehosting.com)
 *   [Secure Dragon](https://securedragon.net)
-*   [SeFlow](https://www.seflow.net)
 *   [Sentris](http://sentris.com)
 *   [ServerAstra](https://serverastra.com)
 *   [Shock Hosting](https://shockhosting.net)
