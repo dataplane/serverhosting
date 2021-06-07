@@ -60,7 +60,6 @@ project and contact information.
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Heficed](https://www.heficed.com)
 *   [Hetzner](https://www.hetzner.com)
-*   [HostBrew](https://hostbrew.com)
 *   [Hostens](https://www.hostens.com)
 *   [HostSolutions.ro](https://www.hostsolutions.ro)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
