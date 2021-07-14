@@ -61,7 +61,6 @@ project and contact information.
 *   [Heficed](https://www.heficed.com)
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
-*   [HostSolutions.ro](https://www.hostsolutions.ro)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
 *   [Hukot](http://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
