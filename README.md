@@ -45,7 +45,6 @@ project and contact information.
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
 *   [Aruba Cloud](https://www.arubacloud.com)
-*   [BudgetNode](https://budgetnode.com)
 *   [BuyVM](https://buyvm.net)
 *   [ChangeIP](https://www.changeip.com)
 *   [CityNet Host](https://www.citynethost.com)
