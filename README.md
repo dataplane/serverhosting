@@ -52,6 +52,7 @@ project and contact information.
 *   [CrownCloud](http://crowncloud.net)
 *   [dediserve](https://www.dediserve.com)
 *   [DigitalOcean](https://www.digitalocean.com)
+*   [EDIS](https://www.edis.at)
 *   [Ethernet Servers](https://www.ethernetservers.com)
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
