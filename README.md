@@ -42,6 +42,7 @@ project and contact information.
 *   [Alibaba Cloud](https://intl.aliyun.com)  
     Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
+*   [Alwyzon](https://www.alwyzon.com)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
 *   [Aruba Cloud](https://www.arubacloud.com)
@@ -114,5 +115,6 @@ project and contact information.
 *   [Vultr](https://www.vultr.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
 *   [XHostFire](https://www.xhostfire.com)
+*   [xTom](https://xtom.com)
 *   [Yourserver](https://www.yourserver.se)
 *   [Zappie Host](https://zappiehost.com/)
