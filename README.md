@@ -94,11 +94,13 @@ project and contact information.
     NAT, no Debian templates.
 *   [OVH](https://www.ovh.com)
 *   [Pajo Servers](https://pajo-servers.com)
+*   [Psychz Networks](https://www.psychz.net)
 *   [RackNerd](https://racknerd.com)
 *   [RamNode](https://ramnode.com)
 *   [Reprise Hosting](https://www.reprisehosting.com)
 *   [Sentris](http://sentris.com)
 *   [ServerAstra](https://serverastra.com)
+*   [ServerStadium](https://serverstadium.com)
 *   [Shock Hosting](https://shockhosting.net)
 *   [SmartHost](https://smarthost.net)
 *   [Telasera](https://www.telasera.com)
