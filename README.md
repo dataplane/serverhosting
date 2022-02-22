@@ -88,7 +88,8 @@ project and contact information.
 *   [Mean Servers](https://www.meanservers.com)
 *   [Nexril](//nexril.net)
 *   [Nocix](https://www.nocix.net)
-*   [OBHost](https://www.obhost.net)
+*   [OBHost](https://www.obhost.net)  
+    Requires real name information and IP address justification for Pakistan region services.
 *   [OffshoreRacks](https://www.offshoreracks.com)
 *   [OneProvider](http://oneprovider.com)
 *   [Oracle Cloud](https://cloud.oracle.com)  
