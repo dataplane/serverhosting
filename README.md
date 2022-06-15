@@ -10,17 +10,17 @@ signal, measurement, and analysis projects.  We generally use KVM-based
 virtual servers or dedicated (bare metal) systems that can run the
 latest stable version of Debian.  Our resource requirements are modest.
 For example, as of this writing, a sensor VM with 512MB of RAM, a 10GB
-disk, and the equivalent of a shared 10 Mb/s link is more than enough.
-The ability to remotely reboot and re-install a minimal, relatively
-current Debian amd64 (x86_64) system without support intervention is
-highly desirable.  Geographic diversity and a diverse set of IP address
-assignments across our sensor nodes is of particular interest and
-sometimes drives our interest in certain providers.  With very few
-exceptions, PayPal billing is the payment method of choice.  We are
-happy to provide complete contact information and even voice
-verification, but with very rare exception we do not do business with
-providers that request copies or scans of a private government-issued
-identification or billing statement.
+disk, one IPv4 address, IPv6 address, and the equivalent of a shared 10
+Mb/s link is more than enough.  The ability to remotely reboot and
+re-install a minimal, relatively current Debian amd64 (x86_64) system
+without support intervention is highly desirable.  Geographic diversity
+and a diverse set of IP address assignments across our sensor nodes is
+of particular interest and sometimes drives our interest in certain
+providers.  With very few exceptions, PayPal billing is the payment
+method of choice.  We are happy to provide complete contact information
+and even voice verification, but with very rare exception we do not do
+business with providers that request copies or scans of a private
+government-issued identification or billing statement.
 
 Brief notes or comments about a server hosting provider based on
 Dataplane.org's experience with them may be included.  Only factual or
