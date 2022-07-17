@@ -61,7 +61,6 @@ project and contact information.
 *   [FlowVPS](https://flowvps.com)
 *   [Google Cloud](https://cloud.google.com/)
 *   [GreenCloudVPS](https://greencloudvps.com)
-*   [Heficed](https://www.heficed.com)
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
