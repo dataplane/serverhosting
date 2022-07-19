@@ -51,6 +51,7 @@ project and contact information.
 *   [Binary Racks](https://www.binaryracks.com)
 *   [BuyVM](https://buyvm.net)
 *   [ChangeIP](https://www.changeip.com)
+*   [Contabo](https://contabo.com)
 *   [CrownCloud](http://crowncloud.net)
 *   [dediserve](https://www.dediserve.com)
 *   [DigitalOcean](https://www.digitalocean.com)
