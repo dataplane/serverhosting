@@ -100,7 +100,6 @@ project and contact information.
 *   [RackNerd](https://racknerd.com)
 *   [RamNode](https://ramnode.com)
 *   [Reprise Hosting](https://www.reprisehosting.com)
-*   [Selectel](https://vds.selectel.ru/en)
 *   [Sentris](http://sentris.com)
 *   [ServerAstra](https://serverastra.com)
 *   [ServerStadium](https://serverstadium.com)
