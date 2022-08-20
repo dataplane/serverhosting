@@ -80,8 +80,10 @@ project and contact information.
 *   [LaunchVPS](https://launchvps.com)
 *   [LeaseWeb](https://www.leaseweb.com)
 *   [LetBox](http://letbox.com)
+*   [LevelOneServers](https://leveloneservers.com/)
 *   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
+*   [Little Creek Hosting](https://www.littlecreekhosting.com/)
 *   [LoveServers](https://loveservers.com)
 *   [Luna Node](https://lunanode.com)   
     NAT.
