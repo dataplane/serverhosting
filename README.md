@@ -39,6 +39,7 @@ services.
 See the [Dataplane.org home page](https://dataplane.org) for additional
 project and contact information.
 
+*   [AlexHost](https://alexhost.com)
 *   [Alibaba Cloud](https://intl.aliyun.com)  
     Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
@@ -60,7 +61,8 @@ project and contact information.
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
 *   [FlowVPS](https://flowvps.com)
-*   [Google Cloud](https://cloud.google.com/)
+*   [Google Cloud](https://cloud.google.com/)  
+    NAT.
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
@@ -72,6 +74,7 @@ project and contact information.
     Filters egress UDP, GRE, and ICMP.  Two sequential, internal IPv4 addresses are provided for both DNS and NTP.
 *   [IndoVirtue](https://indovirtue.com)
 *   [INIZ](https://iniz.com)
+*   [IONOS](https://www.ionos.com)
 *   [IO Zoom](https://www.iozoom.com)
 *   [iwStack](http://iwstack.com)
 *   [Joe's Datacenter](https://joesdatacenter.com)
