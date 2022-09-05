@@ -113,7 +113,6 @@ project and contact information.
 *   [SmartHost](https://smarthost.net)
 *   [Telasera](https://www.telasera.com)
 *   [Tiny KVM](http://tinykvm.com)
-*   [TragicServers](https://tragicservers.com)
 *   [TurnKey Internet](https://turnkeyinternet.net)
 *   [UltraVPS](http://www.ultravps.eu)
 *   [UpCloud](https://upcloud.com)
