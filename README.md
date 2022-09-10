@@ -61,6 +61,7 @@ project and contact information.
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
 *   [FlowVPS](https://flowvps.com)
+*   [G-Core Labs](https://gcore.com/)
 *   [Google Cloud](https://cloud.google.com)  
     NAT.
 *   [GreenCloudVPS](https://greencloudvps.com)
@@ -84,6 +85,7 @@ project and contact information.
 *   [LeaseWeb](https://www.leaseweb.com)
 *   [LetBox](http://letbox.com)
 *   [LevelOneServers](https://leveloneservers.com)
+*   [LightNode](https://www.lightnode.com/)
 *   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
 *   [Little Creek Hosting](https://www.littlecreekhosting.com)
