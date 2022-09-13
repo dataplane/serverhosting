@@ -39,6 +39,7 @@ services.
 See the [Dataplane.org home page](https://dataplane.org) for additional
 project and contact information.
 
+*   [1984 Hosting](https://1984.hosting)
 *   [AlexHost](https://alexhost.com)
 *   [Alibaba Cloud](https://intl.aliyun.com)  
     Requires real name information for mainland China region services.
@@ -62,12 +63,14 @@ project and contact information.
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
 *   [FlowVPS](https://flowvps.com)
+*   [Free Range Cloud](https://freerangecloud.com)
 *   [G-Core Labs](https://gcore.com/)
 *   [Google Cloud](https://cloud.google.com)  
     NAT.
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
+*   [HostHatch](https://hosthatch.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)
 *   [Hukot](http://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
