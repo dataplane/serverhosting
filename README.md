@@ -96,6 +96,7 @@ project and contact information.
 *   [LoveServers](https://loveservers.com)
 *   [Luna Node](https://lunanode.com)   
     NAT.
+*   [MadGenius](https://www.madgenius.com/)
 *   [Mean Servers](https://www.meanservers.com)
 *   [Microsoft Azure](https://azure.microsoft.com)
 *   [Nexril](//nexril.net)
