@@ -129,6 +129,7 @@ project and contact information.
 *   [Virtono](https://www.virtono.com)
 *   [VPS2day](https://www.vps2day.com)
 *   [Vultr](https://www.vultr.com)
+*   [Web4Africa](https://web4africa.com)
 *   [Webhosting24](https://www.webhosting24.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
 *   [XHostFire](https://www.xhostfire.com)
