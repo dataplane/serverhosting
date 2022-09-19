@@ -41,7 +41,7 @@ project and contact information.
 
 *   [1984 Hosting](https://1984.hosting)
 *   [AlexHost](https://alexhost.com)
-*   [Alibaba Cloud](https://intl.aliyun.com)  
+*   [Alibaba Cloud](https://www.alibabacloud.com)  
     Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Alwyzon](https://www.alwyzon.com)
