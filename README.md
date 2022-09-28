@@ -80,9 +80,9 @@ project and contact information.
     Filters egress UDP, GRE, and ICMP.  Two sequential, internal IPv4 addresses are provided for both DNS and NTP.
 *   [IndoVirtue](https://indovirtue.com)
 *   [INIZ](https://iniz.com)
-*   [IPXON](https://www.ipxon.com/)
 *   [IONOS](https://www.ionos.com)
 *   [IO Zoom](https://www.iozoom.com)
+*   [IPXON](https://www.ipxon.com/)
 *   [iwStack](http://iwstack.com)
 *   [Joe's Datacenter](https://joesdatacenter.com)
 *   [JustHost.ru](https://justhost.ru)
