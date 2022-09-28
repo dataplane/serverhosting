@@ -58,6 +58,7 @@ project and contact information.
 *   [dediserve](https://www.dediserve.com)
 *   [DigitalOcean](https://www.digitalocean.com)
 *   [DreamIT Host](https://dreamithost.com.au/)
+*   [drserver](https://drserver.net/)
 *   [EDIS](https://www.edis.at)
 *   [Ethernet Servers](https://www.ethernetservers.com)
 *   [Evolution Host](https://evolution-host.com)
@@ -79,6 +80,7 @@ project and contact information.
     Filters egress UDP, GRE, and ICMP.  Two sequential, internal IPv4 addresses are provided for both DNS and NTP.
 *   [IndoVirtue](https://indovirtue.com)
 *   [INIZ](https://iniz.com)
+*   [IPXON](https://www.ipxon.com/)
 *   [IONOS](https://www.ionos.com)
 *   [IO Zoom](https://www.iozoom.com)
 *   [iwStack](http://iwstack.com)
