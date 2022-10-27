@@ -113,7 +113,6 @@ project and contact information.
 *   [Pajo Servers](https://pajo-servers.com)
 *   [PerfectIP](https://www.perfectip.net/)
 *   [Psychz Networks](https://www.psychz.net)
-*   [RackNerd](https://racknerd.com)
 *   [RamNode](https://ramnode.com)
 *   [Reprise Hosting](https://www.reprisehosting.com)
 *   [Sentris](http://sentris.com)
