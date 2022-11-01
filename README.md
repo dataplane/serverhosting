@@ -60,7 +60,8 @@ project and contact information.
 *   [DreamIT Host](https://dreamithost.com.au/)
 *   [drserver](https://drserver.net/)
 *   [EDIS](https://www.edis.at)
-*   [Ethernet Servers](https://www.ethernetservers.com)
+*   [Ethernet Servers](https://www.ethernetservers.com)  
+    Filters ingress TCP port 22.
 *   [Evolution Host](https://evolution-host.com)
 *   [FDC Servers](https://www.fdcservers.net)
 *   [FlowVPS](https://flowvps.com)
