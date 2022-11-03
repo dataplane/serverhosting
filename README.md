@@ -144,6 +144,7 @@ project and contact information.
     No IPv6.
 *   [ServerAstra](https://serverastra.com)
 *   [ServerStadium](https://serverstadium.com)
+*   [Shock Hosting](https://shockhosting.net)
 *   [SmartHost](https://smarthost.net)
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
