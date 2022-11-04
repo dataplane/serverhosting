@@ -50,7 +50,7 @@ project and contact information.
     No IPv6.
 *   [AlexHost](https://alexhost.com)
 *   [Alibaba Cloud](https://www.alibabacloud.com)  
-    No IPv6. Requires real name information for mainland China region services.
+    Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
 *   [Alwyzon](https://www.alwyzon.com)
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
