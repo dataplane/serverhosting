@@ -75,6 +75,7 @@ project and contact information.
     Filters ingress TCP port 22.
 *   [EUserv](https://euserv.com/en)
 *   [Evolution Host](https://evolution-host.com)
+*   [Fasthosts](https://www.fasthosts.co.uk)
 *   [FDC Servers](https://www.fdcservers.net)  
 *   [FlowVPS](https://flowvps.com)  
     No IPv6.
