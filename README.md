@@ -92,7 +92,6 @@ project and contact information.
     No IPv6.
 *   [Hukot](http://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
-*   [Impact VPS](http://impactvps.com)  
 *   [Incloudibly](https://incloudibly.net)  
     No IPv6. Filters egress UDP, GRE, and ICMP.  Two sequential, internal IPv4 addresses are provided for both DNS and NTP.
 *   [IndoVirtue](https://indovirtue.com)
