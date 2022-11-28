@@ -89,7 +89,7 @@ project and contact information.
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
 *   [HostHatch](https://hosthatch.com)
-*   [HostNamaste[https://www.hostnamaste.com)
+*   [HostNamaste](https://www.hostnamaste.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)  
     No IPv6.
 *   [Hukot](http://hukot.cz)
