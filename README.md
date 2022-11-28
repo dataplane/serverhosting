@@ -66,6 +66,7 @@ project and contact information.
 *   [CrownCloud](http://crowncloud.net)
 *   [DediPath](https://dedipath.com)
 *   [dediserve](https://www.dediserve.com)
+*   [Deft](https://deft.com)
 *   [DigitalOcean](https://www.digitalocean.com)
 *   [DreamIT Host](https://dreamithost.com.au/)  
     No IPv6.
@@ -88,6 +89,7 @@ project and contact information.
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
 *   [HostHatch](https://hosthatch.com)
+*   [HostNamaste[https://www.hostnamaste.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)  
     No IPv6.
 *   [Hukot](http://hukot.cz)
@@ -146,6 +148,7 @@ project and contact information.
 *   [ServerAstra](https://serverastra.com)
 *   [ServerStadium](https://serverstadium.com)
 *   [Shock Hosting](https://shockhosting.net)
+*   [SICloud](https://www.silicloud.com)
 *   [SmartHost](https://smarthost.net)
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
