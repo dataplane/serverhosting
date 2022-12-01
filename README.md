@@ -157,7 +157,8 @@ project and contact information.
 *   [UltraVPS](http://www.ultravps.eu)
 *   [UpCloud](https://upcloud.com)
 *   [Veesp](https://veesp.com)
-*   [VirMach](https://virmach.com)
+*   [VirMach](https://virmach.com)  
+    No IPv6.
 *   [Virtono](https://www.virtono.com)
 *   [Virtury](https://virtury.com)  
     No IPv6.
