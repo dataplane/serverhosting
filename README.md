@@ -104,7 +104,6 @@ project and contact information.
 *   [IPXON](https://www.ipxon.com/)
 *   [iwStack](http://iwstack.com)
 *   [Joe's Datacenter](https://joesdatacenter.com)
-*   [JustHost.ru](https://justhost.ru)
 *   [Kimsufi](https://www.kimsufi.com)
 *   [LaunchVPS](https://launchvps.com)
 *   [LeaseWeb](https://www.leaseweb.com)
