@@ -89,6 +89,8 @@ project and contact information.
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
 *   [HostHatch](https://hosthatch.com)
+*   [HOSTKEY](https://hostkey.com)  
+    No IPv6 on VMs. SMS/voice verification required.
 *   [HostNamaste](https://www.hostnamaste.com)
 *   [Hudson Valley Host](https://www.hudsonvalleyhost.com)  
     No IPv6.
@@ -142,13 +144,17 @@ project and contact information.
 *   [RamNode](https://ramnode.com)
 *   [Reprise Hosting](https://www.reprisehosting.com)  
     No IPv6.
+*   [Revive Host](https://revivehost.com)  
+    No IPv6.
 *   [Sentris](http://sentris.com)  
     No IPv6.
+*   [ServaRICA](https://servarica.com)
 *   [ServerAstra](https://serverastra.com)
 *   [ServerStadium](https://serverstadium.com)
 *   [Shock Hosting](https://shockhosting.net)
 *   [SICloud](https://www.silicloud.com)
 *   [SmartHost](https://smarthost.net)
+*   [SSD Nodes](https://www.ssdnodes.com)
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
 *   [Tiny KVM](http://tinykvm.com)
@@ -166,7 +172,6 @@ project and contact information.
 *   [Web4Africa](https://web4africa.com)
 *   [Webhosting24](https://www.webhosting24.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
-*   [XHostFire](https://www.xhostfire.com)
 *   [xTom](https://xtom.com)
 *   [Yourserver](https://www.yourserver.se)
 *   [Zappie Host](https://zappiehost.com)
