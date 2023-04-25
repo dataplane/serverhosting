@@ -149,6 +149,7 @@ project and contact information.
 *   [Sentris](http://sentris.com)  
     No IPv6.
 *   [ServaRICA](https://servarica.com)
+*   [Server.UA](https://server.ua)
 *   [ServerAstra](https://serverastra.com)
 *   [ServerStadium](https://serverstadium.com)
 *   [Shock Hosting](https://shockhosting.net)
@@ -157,6 +158,7 @@ project and contact information.
 *   [SSD Nodes](https://www.ssdnodes.com)
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
+*   [Tier.Net](https://www.tier.net)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TurnKey Internet](https://turnkeyinternet.net)
 *   [UltraVPS](http://www.ultravps.eu)
@@ -172,6 +174,7 @@ project and contact information.
 *   [Web4Africa](https://web4africa.com)
 *   [Webhosting24](https://www.webhosting24.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
+*   [Xenyth Cloud](https://xenyth.net/)
 *   [xTom](https://xtom.com)
 *   [Yourserver](https://www.yourserver.se)
 *   [Zappie Host](https://zappiehost.com)
