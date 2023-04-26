@@ -62,6 +62,8 @@ project and contact information.
 *   [BuyVM](https://buyvm.net)
 *   [ChangeIP](https://www.changeip.com)  
     IPv6 for an additional recurring fee.
+*   [Clouding.io](https://clouding.io)  
+    No IPv6.
 *   [Contabo](https://contabo.com)
 *   [CrownCloud](http://crowncloud.net)
 *   [DediPath](https://dedipath.com)
