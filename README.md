@@ -172,7 +172,6 @@ project and contact information.
     No IPv6.
 *   [Virtono](https://www.virtono.com)
 *   [Virtury](https://virtury.com)  
-    No IPv6.
 *   [VPS2day](https://www.vps2day.com)
 *   [Vultr](https://www.vultr.com)
 *   [Web4Africa](https://web4africa.com)
