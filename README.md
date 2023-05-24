@@ -125,7 +125,6 @@ project and contact information.
     NAT.
 *   [MadGenius](https://www.madgenius.com/)  
     No IPv6.
-*   [Mean Servers](https://www.meanservers.com)
 *   [Microsoft Azure](https://azure.microsoft.com)
 *   [NATPVS UK](https://natvps.uk)  
     NAT.
