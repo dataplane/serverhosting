@@ -96,8 +96,6 @@ project and contact information.
 *   [HOSTKEY](https://hostkey.com)  
     No IPv6 on VMs. SMS/voice verification required.
 *   [HostNamaste](https://www.hostnamaste.com)
-*   [Hudson Valley Host](https://www.hudsonvalleyhost.com)  
-    No IPv6.
 *   [Hukot](http://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
 *   [Incloudibly](https://incloudibly.net)  
