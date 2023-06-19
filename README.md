@@ -93,6 +93,7 @@ project and contact information.
 *   [Hetzner](https://www.hetzner.com)
 *   [Hostens](https://www.hostens.com)
 *   [HostHatch](https://hosthatch.com)
+*   [Hostinger](https://www.hostinger.com)
 *   [HOSTKEY](https://hostkey.com)  
     No IPv6 on VMs. SMS/voice verification required.
 *   [HostNamaste](https://www.hostnamaste.com)
@@ -118,10 +119,11 @@ project and contact information.
 *   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
 *   [Little Creek Hosting](https://www.littlecreekhosting.com)
-*   [LoveServers](https://loveservers.com)
 *   [Luna Node](https://lunanode.com)   
     NAT.
 *   [MadGenius](https://www.madgenius.com/)  
+    No IPv6.
+*   [MelonCube](https://www.meloncube.net)  
     No IPv6.
 *   [Microsoft Azure](https://azure.microsoft.com)
 *   [NATPVS UK](https://natvps.uk)  
@@ -152,6 +154,8 @@ project and contact information.
 *   [ServaRICA](https://servarica.com)
 *   [Server.UA](https://server.ua)
 *   [ServerAstra](https://serverastra.com)
+*   [ServerHost](https://serverhost.com)  
+    No IPv6.
 *   [ServerStadium](https://serverstadium.com)
 *   [Shock Hosting](https://shockhosting.net)
 *   [SICloud](https://www.silicloud.com)
@@ -161,6 +165,8 @@ project and contact information.
     No IPv6.
 *   [Tier.Net](https://www.tier.net)
 *   [Tiny KVM](http://tinykvm.com)
+*   [TNAHosting](https://tnahosting.net)  
+    No IPv6.
 *   [TurnKey Internet](https://turnkeyinternet.net)
 *   [UltraVPS](http://www.ultravps.eu)
 *   [UpCloud](https://upcloud.com)
