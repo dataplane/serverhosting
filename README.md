@@ -166,7 +166,6 @@ project and contact information.
 *   [Tier.Net](https://www.tier.net)
 *   [Tiny KVM](http://tinykvm.com)
 *   [TNAHosting](https://tnahosting.net)  
-    No IPv6.
 *   [TurnKey Internet](https://turnkeyinternet.net)
 *   [UltraVPS](http://www.ultravps.eu)
 *   [UpCloud](https://upcloud.com)
