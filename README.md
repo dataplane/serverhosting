@@ -63,11 +63,15 @@ project and contact information.
 *   [BuyVM](https://buyvm.net)
 *   [ChangeIP](https://www.changeip.com)  
     IPv6 for an additional recurring fee.
+*   [Cloud Server](https://cloudserver.net)  
+    No IPv6.
 *   [Clouding.io](https://clouding.io)  
     No IPv6.
 *   [Contabo](https://contabo.com)
+*   [Cox Edge](https://coxedge.com)  
+    NAT. No IPv6. No ICMP.
 *   [CrownCloud](http://crowncloud.net)
-*   [DediPath](https://dedipath.com)
+*   [Crunchbits](https://crunchbits.com)
 *   [dediserve](https://www.dediserve.com)
 *   [Deft](https://deft.com)
 *   [DigitalOcean](https://www.digitalocean.com)
@@ -83,6 +87,7 @@ project and contact information.
 *   [Evolution Host](https://evolution-host.com)
 *   [Fasthosts](https://www.fasthosts.co.uk)
 *   [FDC Servers](https://www.fdcservers.net)  
+*   [First Root](https://www.first-root.com)
 *   [FlowVPS](https://flowvps.com)  
     No IPv6.
 *   [Free Range Cloud](https://freerangecloud.com)
@@ -92,24 +97,30 @@ project and contact information.
     NAT.
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Hetzner](https://www.hetzner.com)
+*   [Hivelocity](https://hivelocity.net)
 *   [Hostens](https://www.hostens.com)
+*   [HostEONS](https://hosteons.com/)
 *   [HostHatch](https://hosthatch.com)
 *   [Hostinger](https://www.hostinger.com)
 *   [HOSTKEY](https://hostkey.com)  
     No IPv6 on VMs. SMS/voice verification required.
 *   [HostNamaste](https://www.hostnamaste.com)
+*   [HostSlick](https://hostslick.com)
 *   [Hukot](http://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
+*   [Inception Hosting](https://inceptionhosting.com)
 *   [Incloudibly](https://incloudibly.net)  
     No IPv6. Filters egress UDP, GRE, and ICMP.  Two sequential, internal IPv4 addresses are provided for both DNS and NTP.
+*   [IncogNET](https://incognet.io)
 *   [IndoVirtue](https://indovirtue.com)
+*   [Info Fractal](https://infofractal.io)
 *   [INIZ](https://iniz.com)
 *   [IONOS](https://www.ionos.com)
 *   [IO Zoom](https://www.iozoom.com)  
     No IPv6.
+*   [IonSwitch](https://www.ionswitch.com/)
 *   [IPXON](https://www.ipxon.com/)
 *   [iwStack](http://iwstack.com)
-*   [Joe's Datacenter](https://joesdatacenter.com)
 *   [Kimsufi](https://www.kimsufi.com)
 *   [LaunchVPS](https://launchvps.com)
 *   [LeaseWeb](https://www.leaseweb.com)
@@ -120,6 +131,7 @@ project and contact information.
 *   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
 *   [Little Creek Hosting](https://www.littlecreekhosting.com)
+*   [limewave](https://limewave.net)
 *   [Luna Node](https://lunanode.com)   
     NAT.
 *   [MadGenius](https://www.madgenius.com/)  
@@ -127,8 +139,12 @@ project and contact information.
 *   [MelonCube](https://www.meloncube.net)  
     No IPv6.
 *   [Microsoft Azure](https://azure.microsoft.com)
+*   [Microtronix](https://www.microtronixdc.com)
 *   [NATPVS UK](https://natvps.uk)  
     NAT.
+*   [Navegalo](https://www.navegalo.com)  
+    No IPv6.
+*   [NetActuate](https://netactuate.com/)
 *   [netcup](https://www.netcup.eu)
 *   [Nexril](//nexril.net)
 *   [Nocix](https://www.nocix.net)
@@ -138,6 +154,7 @@ project and contact information.
     No IPv6.
 *   [OneProvider](http://oneprovider.com)  
     No IPv6 with OneCloud.
+*   [Oplink](https://oplink.net)
 *   [Oracle Cloud](https://cloud.oracle.com)  
     NAT, no Debian templates.
 *   [OVH](https://www.ovh.com)
@@ -158,10 +175,13 @@ project and contact information.
 *   [ServerHost](https://serverhost.com)  
     No IPv6.
 *   [ServerStadium](https://serverstadium.com)
+*   [Shinjuru](https://www.shinjiru.com)  
+    No IPv6.
 *   [Shock Hosting](https://shockhosting.net)
 *   [SICloud](https://www.silicloud.com)
 *   [SmartHost](https://smarthost.net)
 *   [SSD Nodes](https://www.ssdnodes.com)
+*   [ST-Hosting](https://st-hosting.com)
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
 *   [Tier.Net](https://www.tier.net)
@@ -180,6 +200,7 @@ project and contact information.
 *   [Web4Africa](https://web4africa.com)
 *   [Webhosting24](https://www.webhosting24.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
+*   [WORLDBUS](https://worldbus.ge)
 *   [Xenyth Cloud](https://xenyth.net/)
 *   [xTom](https://xtom.com)
 *   [Yourserver](https://www.yourserver.se)
