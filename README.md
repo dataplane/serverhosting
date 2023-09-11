@@ -138,7 +138,8 @@ project and contact information.
     No IPv6.
 *   [MelonCube](https://www.meloncube.net)  
     No IPv6.
-*   [Microsoft Azure](https://azure.microsoft.com)
+*   [Microsoft Azure](https://azure.microsoft.com)  
+    NAT.
 *   [Microtronix](https://www.microtronixdc.com)
 *   [NATPVS UK](https://natvps.uk)  
     NAT.
@@ -156,7 +157,7 @@ project and contact information.
     No IPv6 with OneCloud.
 *   [Oplink](https://oplink.net)
 *   [Oracle Cloud](https://cloud.oracle.com)  
-    NAT, no Debian templates.
+    NAT. No Debian templates.
 *   [OVH](https://www.ovh.com)
 *   [Pajo Servers](https://pajo-servers.com)  
     No IPv6.
