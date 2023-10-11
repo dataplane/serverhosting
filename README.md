@@ -152,7 +152,7 @@ project and contact information.
 *   [OffshoreRacks](https://www.offshoreracks.com)  
     No IPv6.
 *   [OneProvider](http://oneprovider.com)  
-    No IPv6 with OneCloud.
+    Partial IPv6 with OneCloud.
 *   [Oplink](https://oplink.net)
 *   [Oracle Cloud](https://cloud.oracle.com)  
     NAT. No Debian templates.
