@@ -202,5 +202,4 @@ project and contact information.
 *   [WORLDBUS](https://worldbus.ge)
 *   [Xenyth Cloud](https://xenyth.net/)
 *   [xTom](https://xtom.com)
-*   [Yourserver](https://www.yourserver.se)
 *   [Zappie Host](https://zappiehost.com)
