@@ -178,7 +178,8 @@ project and contact information.
     No IPv6.
 *   [Shock Hosting](https://shockhosting.net)
 *   [SICloud](https://www.silicloud.com)
-*   [SmartHost](https://smarthost.net)
+*   [SmartHost](https://smarthost.net)  
+    No IPv6 in Buffalo (ColoCrossing) location.
 *   [SSD Nodes](https://www.ssdnodes.com)
 *   [ST-Hosting](https://st-hosting.com)
 *   [Telasera](https://www.telasera.com)  
