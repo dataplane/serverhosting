@@ -48,7 +48,7 @@ project and contact information.
 
 *   [1984 Hosting](https://1984.hosting)  
     No IPv6.
-*   [20c](https://20c.com/)
+*   [20c](https://20c.com)
 *   [AlexHost](https://alexhost.com)
 *   [Alibaba Cloud](https://www.alibabacloud.com)  
     Requires real name information for mainland China region services.
@@ -63,48 +63,58 @@ project and contact information.
 *   [BuyVM](https://buyvm.net)
 *   [ChangeIP](https://www.changeip.com)  
     IPv6 for an additional recurring fee.
+*   [ChicagoVPS](https://chicagovps.net)  
+    No IPv6. ColoCrossing sub-brand.
 *   [Cloud Server](https://cloudserver.net)  
-    No IPv6.
+    No IPv6, all ColoCrossing locations.
+*   [Cloudie Networks](https://cloudie.sh)
 *   [Clouding.io](https://clouding.io)  
+    No IPv6.
+*   [ColoCrossing](https://www.colocrossing.com)  
     No IPv6.
 *   [Contabo](https://contabo.com)
 *   [Cox Edge](https://coxedge.com)  
     NAT. No IPv6. No ICMP.
-*   [CrownCloud](http://crowncloud.net)
+*   [CrownCloud](https://crowncloud.net)
 *   [Crunchbits](https://crunchbits.com)
 *   [dediserve](https://www.dediserve.com)
 *   [Deft](https://deft.com)
 *   [DigitalOcean](https://www.digitalocean.com)
-*   [DreamIT Host](https://dreamithost.com.au/)  
+*   [DreamIT Host](https://dreamithost.com.au)  
     No IPv6.
-*   [drserver](https://drserver.net/)
+*   [drserver](https://drserver.net)
 *   [EDIS](https://www.edis.at)
 *   [Ethernet Servers](https://www.ethernetservers.com)  
     Filters ingress TCP port 22.
 *   [EUserv](https://euserv.com/en)
 *   [Evolution Host](https://evolution-host.com)
+*   [ExtraVM](https://extravm.com)  
+    Partial IPv6.
 *   [Fasthosts](https://www.fasthosts.co.uk)
 *   [FDC Servers](https://www.fdcservers.net)  
 *   [First Root](https://www.first-root.com)
 *   [FlowVPS](https://flowvps.com)  
     No IPv6.
 *   [Free Range Cloud](https://freerangecloud.com)
-*   [G-Core Labs](https://gcore.com/)  
+*   [G-Core Labs](https://gcore.com)  
 *   [GINERNET](https://ginernet.com)
+*   [GoDaddy](https://www.godaddy.com)  
+    No IPV6.
 *   [Google Cloud](https://cloud.google.com)  
     NAT.
 *   [GreenCloudVPS](https://greencloudvps.com)
 *   [Hetzner](https://www.hetzner.com)
 *   [Hivelocity](https://hivelocity.net)
 *   [Hostens](https://www.hostens.com)
-*   [HostEONS](https://hosteons.com/)
+*   [HostEONS](https://hosteons.com)
 *   [HostHatch](https://hosthatch.com)
 *   [Hostinger](https://www.hostinger.com)
 *   [HOSTKEY](https://hostkey.com)  
     No IPv6 on VMs. SMS/voice verification required.
 *   [HostNamaste](https://www.hostnamaste.com)
-*   [HostSlick](https://hostslick.com)
-*   [Hukot](http://hukot.cz)
+*   [HostSlick](https://hostslick.com)  
+    Partial IPv6.
+*   [Hukot](https://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
 *   [Inception Hosting](https://inceptionhosting.com)
 *   [Incloudibly](https://incloudibly.net)  
@@ -116,23 +126,25 @@ project and contact information.
 *   [IONOS](https://www.ionos.com)
 *   [IO Zoom](https://www.iozoom.com)  
     No IPv6.
-*   [IonSwitch](https://www.ionswitch.com/)
-*   [IPXON](https://www.ipxon.com/)
-*   [iwStack](http://iwstack.com)
+*   [IonSwitch](https://www.ionswitch.com)
+*   [IPXON](https://www.ipxon.com)
+*   [iwStack](https://iwstack.com)
+*   [Just Host](https://just.hosting)
 *   [Kimsufi](https://www.kimsufi.com)
 *   [LaunchVPS](https://launchvps.com)
 *   [LeaseWeb](https://www.leaseweb.com)
-*   [LetBox](http://letbox.com)
+*   [LetBox](https://letbox.com)
 *   [LevelOneServers](https://leveloneservers.com)
-*   [LightNode](https://www.lightnode.com/)  
+*   [LightNode](https://www.lightnode.com)  
     No IPv6.
+*   [Limewave](https://limewave.net)
 *   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
 *   [Little Creek Hosting](https://www.littlecreekhosting.com)
 *   [limewave](https://limewave.net)
 *   [Luna Node](https://lunanode.com)   
     NAT.
-*   [MadGenius](https://www.madgenius.com/)  
+*   [MadGenius](https://www.madgenius.com)  
     No IPv6.
 *   [MelonCube](https://www.meloncube.net)  
     No IPv6.
@@ -143,7 +155,7 @@ project and contact information.
     NAT.
 *   [Navegalo](https://www.navegalo.com)  
     No IPv6.
-*   [NetActuate](https://netactuate.com/)
+*   [NetActuate](https://netactuate.com)
 *   [netcup](https://www.netcup.eu)
 *   [Nexril](//nexril.net)
 *   [Nocix](https://www.nocix.net)
@@ -151,7 +163,7 @@ project and contact information.
     Requires real name information and IP address justification for Pakistan region services.
 *   [OffshoreRacks](https://www.offshoreracks.com)  
     No IPv6.
-*   [OneProvider](http://oneprovider.com)  
+*   [OneProvider](https://oneprovider.com)  
     Partial IPv6 with OneCloud.
 *   [Oplink](https://oplink.net)
 *   [Oracle Cloud](https://cloud.oracle.com)  
@@ -159,20 +171,24 @@ project and contact information.
 *   [OVH](https://www.ovh.com)
 *   [Pajo Servers](https://pajo-servers.com)  
     No IPv6.
-*   [PerfectIP](https://www.perfectip.net/)
+*   [PerfectIP](https://www.perfectip.net)
 *   [Psychz Networks](https://www.psychz.net)
 *   [RamNode](https://ramnode.com)
+*   [ReliableSite](https://reliablesite.net)
 *   [Reprise Hosting](https://www.reprisehosting.com)  
     No IPv6.
 *   [Revive Host](https://revivehost.com)  
     No IPv6.
-*   [Sentris](http://sentris.com)  
+*   [RimuHosting](https://rimuhosting.com)
+*   [ScanNet](https://scannet.dk)  
+    No IPv6.
+*   [Sentris](https://sentris.com)  
     No IPv6.
 *   [ServaRICA](https://servarica.com)
 *   [Server.UA](https://server.ua)
 *   [ServerAstra](https://serverastra.com)
 *   [ServerHost](https://serverhost.com)  
-    No IPv6.
+    No IPv6.  ColoCrossing sub-brand.
 *   [ServerStadium](https://serverstadium.com)
 *   [Shinjuru](https://www.shinjiru.com)  
     No IPv6.
@@ -185,10 +201,11 @@ project and contact information.
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
 *   [Tier.Net](https://www.tier.net)
-*   [Tiny KVM](http://tinykvm.com)
+*   [Tiny KVM](https://tinykvm.com)
 *   [TNAHosting](https://tnahosting.net)  
+*   [Tornado VPS](https://tornadovps.com)
 *   [TurnKey Internet](https://turnkeyinternet.net)
-*   [UltraVPS](http://www.ultravps.eu)
+*   [UltraVPS](https://www.ultravps.eu)
 *   [UpCloud](https://upcloud.com)
 *   [Veesp](https://veesp.com)
 *   [VirMach](https://virmach.com)  
@@ -201,6 +218,6 @@ project and contact information.
 *   [Webhosting24](https://www.webhosting24.com)
 *   [Wholesale Internet](https://www.wholesaleinternet.net)
 *   [WORLDBUS](https://worldbus.ge)
-*   [Xenyth Cloud](https://xenyth.net/)
+*   [Xenyth Cloud](https://xenyth.net)
 *   [xTom](https://xtom.com)
 *   [Zappie Host](https://zappiehost.com)
