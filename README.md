@@ -57,7 +57,8 @@ project and contact information.
 *   [Amazon Web Services (AWS)](https://aws.amazon.com)  
     NAT.
 *   [Aruba Cloud](https://www.arubacloud.com)  
-*   [Atlantic.Net](https://atlantic.net)
+*   [Atlantic.Net](https://atlantic.net)  
+    Partial IPv6.
 *   [BinaryLane](https://www.binarylane.com.au)
 *   [Binary Racks](https://www.binaryracks.com)
 *   [BuyVM](https://buyvm.net)
