@@ -170,8 +170,6 @@ project and contact information.
 *   [Oracle Cloud](https://cloud.oracle.com)  
     NAT. No Debian templates.
 *   [OVH](https://www.ovh.com)
-*   [Pajo Servers](https://pajo-servers.com)  
-    No IPv6.
 *   [PerfectIP](https://www.perfectip.net)
 *   [Psychz Networks](https://www.psychz.net)
 *   [RamNode](https://ramnode.com)
