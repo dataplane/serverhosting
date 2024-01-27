@@ -62,8 +62,6 @@ project and contact information.
 *   [BinaryLane](https://www.binarylane.com.au)
 *   [Binary Racks](https://www.binaryracks.com)
 *   [BuyVM](https://buyvm.net)
-*   [ChangeIP](https://www.changeip.com)  
-    IPv6 for an additional recurring fee.
 *   [ChicagoVPS](https://chicagovps.net)  
     No IPv6. ColoCrossing sub-brand.
 *   [Cloud Server](https://cloudserver.net)  
