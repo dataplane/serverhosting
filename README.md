@@ -72,8 +72,6 @@ project and contact information.
 *   [ColoCrossing](https://www.colocrossing.com)  
     No IPv6.
 *   [Contabo](https://contabo.com)
-*   [Cox Edge](https://coxedge.com)  
-    NAT. No IPv6. No ICMP.
 *   [CrownCloud](https://crowncloud.net)
 *   [Crunchbits](https://crunchbits.com)
 *   [dediserve](https://www.dediserve.com)
@@ -136,7 +134,6 @@ project and contact information.
 *   [LevelOneServers](https://leveloneservers.com)
 *   [LightNode](https://www.lightnode.com)  
     No IPv6.
-*   [Limewave](https://limewave.net)
 *   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
 *   [Little Creek Hosting](https://www.littlecreekhosting.com)
