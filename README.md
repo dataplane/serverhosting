@@ -137,7 +137,6 @@ project and contact information.
 *   [Linode](https://www.linode.com)
 *   [LiteServer](https://www.liteserver.nl)
 *   [Little Creek Hosting](https://www.littlecreekhosting.com)
-*   [limewave](https://limewave.net)
 *   [Luna Node](https://lunanode.com)   
     NAT.
 *   [MadGenius](https://www.madgenius.com)  
