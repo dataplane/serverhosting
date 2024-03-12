@@ -170,8 +170,6 @@ project and contact information.
 *   [ReliableSite](https://reliablesite.net)
 *   [Reprise Hosting](https://www.reprisehosting.com)  
     No IPv6.
-*   [Revive Host](https://revivehost.com)  
-    No IPv6.
 *   [RimuHosting](https://rimuhosting.com)
 *   [ScanNet](https://scannet.dk)  
     No IPv6.
