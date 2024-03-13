@@ -168,8 +168,6 @@ project and contact information.
 *   [Psychz Networks](https://www.psychz.net)
 *   [RamNode](https://ramnode.com)
 *   [ReliableSite](https://reliablesite.net)
-*   [Reprise Hosting](https://www.reprisehosting.com)  
-    No IPv6.
 *   [RimuHosting](https://rimuhosting.com)
 *   [ScanNet](https://scannet.dk)  
     No IPv6.
