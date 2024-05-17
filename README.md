@@ -141,8 +141,6 @@ project and contact information.
     NAT.
 *   [MadGenius](https://www.madgenius.com)  
     No IPv6.
-*   [MelonCube](https://www.meloncube.net)  
-    No IPv6.
 *   [Microsoft Azure](https://azure.microsoft.com)  
     NAT.
 *   [Microtronix](https://www.microtronixdc.com)
