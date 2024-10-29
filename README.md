@@ -172,7 +172,8 @@ project and contact information.
 *   [Sentris](https://sentris.com)  
     No IPv6.
 *   [ServaRICA](https://servarica.com)
-*   [Server.UA](https://server.ua)
+*   [Server.UA](https://server.ua)  
+    They add VAT for customers outside EU.
 *   [ServerAstra](https://serverastra.com)
 *   [ServerHost](https://serverhost.com)  
     No IPv6.  ColoCrossing sub-brand.
