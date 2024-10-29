@@ -77,6 +77,7 @@ project and contact information.
 *   [dediserve](https://www.dediserve.com)
 *   [Deft](https://deft.com)
 *   [DigitalOcean](https://www.digitalocean.com)
+*   [Digital Rose](https://www.digitalrose.com.au)
 *   [DreamIT Host](https://dreamithost.com.au)  
     No IPv6.
 *   [drserver](https://drserver.net)
