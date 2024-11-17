@@ -49,7 +49,6 @@ project and contact information.
 *   [1984 Hosting](https://1984.hosting)  
     No IPv6.
 *   [20c](https://20c.com)
-*   [AlexHost](https://alexhost.com)
 *   [Alibaba Cloud](https://www.alibabacloud.com)  
     Requires real name information for mainland China region services.
 *   [AlphaVPS](https://alphavps.bg)
