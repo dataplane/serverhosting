@@ -108,8 +108,6 @@ project and contact information.
 *   [HOSTKEY](https://hostkey.com)  
     No IPv6 on VMs. SMS/voice verification required.
 *   [HostNamaste](https://www.hostnamaste.com)
-*   [HostSlick](https://hostslick.com)  
-    Partial IPv6.
 *   [Hukot](https://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
 *   [Inception Hosting](https://inceptionhosting.com)
