@@ -107,7 +107,6 @@ project and contact information.
 *   [Hostinger](https://www.hostinger.com)
 *   [HOSTKEY](https://hostkey.com)  
     No IPv6 on VMs. SMS/voice verification required.
-*   [HostNamaste](https://www.hostnamaste.com)
 *   [Hukot](https://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
 *   [Inception Hosting](https://inceptionhosting.com)
@@ -141,8 +140,6 @@ project and contact information.
 *   [Microsoft Azure](https://azure.microsoft.com)  
     NAT.
 *   [Microtronix](https://www.microtronixdc.com)
-*   [NATPVS UK](https://natvps.uk)  
-    NAT.
 *   [Navegalo](https://www.navegalo.com)  
     No IPv6.
 *   [NetActuate](https://netactuate.com)
