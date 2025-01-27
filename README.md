@@ -175,7 +175,6 @@ project and contact information.
 *   [Shinjuru](https://www.shinjiru.com)  
     No IPv6.
 *   [Shock Hosting](https://shockhosting.net)
-*   [SICloud](https://www.silicloud.com)
 *   [SmartHost](https://smarthost.net)  
     No IPv6 in Buffalo (ColoCrossing) location.
 *   [SSD Nodes](https://www.ssdnodes.com)
