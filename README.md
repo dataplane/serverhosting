@@ -104,6 +104,7 @@ project and contact information.
 *   [Hivelocity](https://hivelocity.net)
 *   [Hostens](https://www.hostens.com)
 *   [HostEONS](https://hosteons.com)
+*   [Host Europe](https://www.hosteurope.de)
 *   [HostHatch](https://hosthatch.com)
 *   [Hostinger](https://www.hostinger.com)
 *   [HOSTKEY](https://hostkey.com)  
