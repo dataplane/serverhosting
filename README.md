@@ -68,6 +68,7 @@ project and contact information.
 *   [Cloudie Networks](https://cloudie.sh)
 *   [Clouding.io](https://clouding.io)  
     No IPv6.
+*   [Clouvider](https://www.clouvider.com)
 *   [ColoCrossing](https://www.colocrossing.com)  
     No IPv6.
 *   [Contabo](https://contabo.com)
