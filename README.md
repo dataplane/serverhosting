@@ -108,7 +108,6 @@ project and contact information.
     No IPv6 on VMs. SMS/voice verification required.
 *   [Hukot](https://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
-*   [Inception Hosting](https://inceptionhosting.com)
 *   [Incloudibly](https://incloudibly.net)  
     No IPv6. Filters egress UDP, GRE, and ICMP.  Two sequential, internal IPv4 addresses are provided for both DNS and NTP.
 *   [IncogNET](https://incognet.io)
