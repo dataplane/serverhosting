@@ -110,6 +110,7 @@ project and contact information.
 *   [HOSTKEY](https://hostkey.com)  
     No IPv6 on VMs. SMS/voice verification required.
 *   [Hostodo](https://hostodo.com)
+*   [Host VDS](https://hostvds.com)
 *   [Hukot](https://hukot.cz)
 *   [Ikoula](https://www.ikoula.com)
 *   [Incloudibly](https://incloudibly.net)  
