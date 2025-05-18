@@ -72,6 +72,7 @@ project and contact information.
 *   [ColoCrossing](https://www.colocrossing.com)  
     No IPv6.
 *   [Contabo](https://contabo.com)
+*   [Creanova](https://creanova.org)
 *   [CrownCloud](https://crowncloud.net)
 *   [Crunchbits](https://crunchbits.com)
 *   [dediserve](https://www.dediserve.com)
