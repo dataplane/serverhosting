@@ -87,7 +87,6 @@ project and contact information.
 *   [ExtraVM](https://extravm.com)  
     Partial IPv6.
 *   [Fasthosts](https://www.fasthosts.co.uk)
-*   [FDC Servers](https://www.fdcservers.net)  
 *   [First Root](https://www.first-root.com)
 *   [FlowVPS](https://flowvps.com)  
     No IPv6.
