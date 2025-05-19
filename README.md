@@ -120,9 +120,9 @@ project and contact information.
 *   [Info Fractal](https://infofractal.io)
 *   [INIZ](https://iniz.com)
 *   [IONOS](https://www.ionos.com)
+*   [IonSwitch](https://www.ionswitch.com)
 *   [IO Zoom](https://www.iozoom.com)  
     No IPv6.
-*   [IonSwitch](https://www.ionswitch.com)
 *   [IPXON](https://www.ipxon.com)
 *   [iwStack](https://iwstack.com)
 *   [Just Host](https://just.hosting)
@@ -159,8 +159,13 @@ project and contact information.
 *   [Oracle Cloud](https://cloud.oracle.com)  
     NAT. No Debian templates.
 *   [OVH](https://www.ovh.com)
+*   [OWN.TN](https://own.tn)  
+    No IPv6.
 *   [PerfectIP](https://www.perfectip.net)
+*   [Pfcloud](https://pfcloud.io)
+*   [PhotonVPS](https://www.photonvps.com)
 *   [Psychz Networks](https://www.psychz.net)
+*   [RackGenius](https://rackgenius.com)
 *   [RamNode](https://ramnode.com)
 *   [ReliableSite](https://reliablesite.net)
 *   [RimuHosting](https://rimuhosting.com)
@@ -169,12 +174,12 @@ project and contact information.
 *   [Sentris](https://sentris.com)  
     No IPv6.
 *   [ServaRICA](https://servarica.com)
-*   [Server.UA](https://server.ua)  
-    They add VAT for customers outside EU.
 *   [ServerAstra](https://serverastra.com)
 *   [ServerHost](https://serverhost.com)  
     No IPv6.  ColoCrossing sub-brand.
 *   [ServerStadium](https://serverstadium.com)
+*   [Server.UA](https://server.ua)  
+    They add VAT for customers outside EU.
 *   [Shinjuru](https://www.shinjiru.com)  
     No IPv6.
 *   [Shock Hosting](https://shockhosting.net)
@@ -184,6 +189,9 @@ project and contact information.
 *   [ST-Hosting](https://st-hosting.com)
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
+*   [Tencent Cloud](https://www.tencentcloud.com)  
+    No IPv6.
+*   [Terabix](https://terabix.net)
 *   [Tier.Net](https://www.tier.net)
 *   [Tiny KVM](https://tinykvm.com)
 *   [TNAHosting](https://tnahosting.net)  
@@ -195,6 +203,8 @@ project and contact information.
 *   [Virtono](https://www.virtono.com)
 *   [Virtury](https://virtury.com)  
 *   [VPS2day](https://www.vps2day.com)
+*   [VPS Malaysia](https://www.vpsmalaysia.com.my)  
+    No IPv6.
 *   [Vultr](https://www.vultr.com)
 *   [Web4Africa](https://web4africa.com)
 *   [Webhosting24](https://www.webhosting24.com)
