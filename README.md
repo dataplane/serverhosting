@@ -190,7 +190,7 @@ project and contact information.
 *   [Telasera](https://www.telasera.com)  
     No IPv6.
 *   [Tencent Cloud](https://www.tencentcloud.com)  
-    No IPv6.
+    No IPv6.  Requires real name information for mainland China region services.
 *   [Terabix](https://terabix.net)
 *   [Tier.Net](https://www.tier.net)
 *   [Tiny KVM](https://tinykvm.com)
