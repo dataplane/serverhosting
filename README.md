@@ -119,7 +119,6 @@ project and contact information.
 *   [Info Fractal](https://infofractal.io)
 *   [INIZ](https://iniz.com)
 *   [IONOS](https://www.ionos.com)
-*   [IonSwitch](https://www.ionswitch.com)
 *   [IO Zoom](https://www.iozoom.com)  
     No IPv6.
 *   [IPXON](https://www.ipxon.com)
