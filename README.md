@@ -74,7 +74,6 @@ project and contact information.
 *   [Contabo](https://contabo.com)
 *   [Creanova](https://creanova.org)
 *   [CrownCloud](https://crowncloud.net)
-*   [Crunchbits](https://crunchbits.com)
 *   [dediserve](https://www.dediserve.com)
 *   [Deft](https://deft.com)
 *   [DigitalOcean](https://www.digitalocean.com)
